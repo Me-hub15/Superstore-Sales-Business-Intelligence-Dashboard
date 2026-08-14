@@ -1,6 +1,3 @@
-# Superstore-Sales-Business-Intelligence-Dashboard
- A Detailed Superstore Sales and Business Intelligence Report Created using AI tool and Business Intelligence tool, Microsoft Power BI.
-
  # Superstore Sales & Business Intelligence Dashboard
 
 An interactive Power BI dashboard designed to analyze sales performance, profitability, customers, products, geographic performance, and shipping trends using the Superstore dataset.
