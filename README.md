@@ -184,53 +184,6 @@ These measures enable dynamic analysis across different categories, customers, p
 
 ---
 
-## 🖼️ Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Screenshots/Executive_Overview.png)
-
-### Product Analysis
-
-![Product Analysis](Screenshots/Product_Analysis.png)
-
-### Customer Analysis
-
-![Customer Analysis](Screenshots/Customer_Analysis.png)
-
-### Geographic Analysis
-
-![Geographic Analysis](Screenshots/Geographic_Analysis.png)
-
-### Shipping Analysis
-
-![Shipping Analysis](Screenshots/Shipping_Analysis.png)
-
----
-
-## 📂 Repository Structure
-
-```text
-superstore-sales-business-intelligence-dashboard/
-│
-├── README.md
-│
-├── PowerBI/
-│   └── Superstore_Business_Intelligence_Dashboard.pbix
-│
-├── Screenshots/
-│   ├── Executive_Overview.png
-│   ├── Product_Analysis.png
-│   ├── Customer_Analysis.png
-│   ├── Geographic_Analysis.png
-│   └── Shipping_Analysis.png
-│
-└── Documentation/
-    └── Project_Report.pdf
-```
-
----
-
 ## 🚀 Project Workflow
 
 ```text
